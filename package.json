@@ -1,0 +1,16 @@
+{
+  "name": "discord-confession-bot",
+  "version": "1.0.0",
+  "description": "Anonymous confession bot for Discord without persistent storage",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "discord.js": "^14.21.0",
+    "dotenv": "^16.6.1"
+  }
+}
